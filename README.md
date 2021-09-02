@@ -1,7 +1,7 @@
-# AB-Remote-Wallpaper-Changer
-Unique Android App built using Firebase to change wallpaper of device remotely.
+# Remote-Wallpaper
+An App built using Goggle Firebase to change wallpaper of a remote device.
 
-Hobby project, you may find it useful. Using this simple android app, you can change wallapper of someone who has same app installed in his/her phone. You need to him/her as a friend before being able to change the wallpaper though.
+Hobby project, you may find it useful. Using this simple app, you can change the wallpaper of someone who has the same app installed on their phone. They need to accept you as a friend before being able to change the wallpaper.
 
 Try it out here
 
